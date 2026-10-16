@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NutriSense.App/NutriSense.App.csproj" />
+  <Project Path="NutriSense.Application/NutriSense.Application.csproj" />
+  <Project Path="NutriSense.Domain/NutriSense.Domain.csproj" />
+  <Project Path="NutriSense.Infrastructure/NutriSense.Infrastructure.csproj" />
+</Solution>
